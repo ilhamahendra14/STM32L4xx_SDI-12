@@ -23,4 +23,4 @@ Important:
 + Basically SDI-12 uses a single UART pin (TX) and cycles between TX and RX to send and receive commands (respectively)
   - Please, enable 'TX and RX Pins Swapping'.
 
-This firmware tested with [Solinst Sensor](https://www.solinst.com/products/data/3001.pdf)<br/>
+This firmware tested with [Solinst Sensor](https://www.solinst.com/products/data/3001.pdf)
