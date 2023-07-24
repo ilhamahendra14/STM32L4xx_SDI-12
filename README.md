@@ -6,6 +6,6 @@
 3. Logic converter &emsp;&emsp; --> 3v3 VCC from PB4 pin<br/>
  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; --> 5v VCC from Step Up output<br/>
 <br/>
-**Note:** SDI-12 use 12V (I have 12V output from my custom board)<br/>
+Note: SDI-12 use 12V (I have 12V output from my custom board)<br/>
 <br/>
 This firmware tested with [Solinst Sensor](https://www.solinst.com/products/data/3001.pdf)<br/>
