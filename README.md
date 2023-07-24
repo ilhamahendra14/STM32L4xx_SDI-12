@@ -2,7 +2,7 @@
 
 ## Hardware
 I used 3 board/module:
-+ Custom board with STM32L432KCU6
++ Custom board with [STM32L432KC](https://www.st.com/resource/en/datasheet/stm32l432kc.pdf)
 + Step Up 3v3 to 5v
   - VCC input from PA1 pin
 + Logic converter
