@@ -1,0 +1,12 @@
+../Core/Src/sdi12.c:48:6:SDI12_Init	16	static
+../Core/Src/sdi12.c:72:26:SDI12_QueryDevice	56	static
+../Core/Src/sdi12.c:122:26:SDI12_ReceiveLine	32	static
+../Core/Src/sdi12.c:169:19:SDI12_AckActive	24	static
+../Core/Src/sdi12.c:179:6:SDI12_DevicesOnBus	24	static
+../Core/Src/sdi12.c:194:19:SDI12_GetId	24	static
+../Core/Src/sdi12.c:205:19:SDI12_ChangeAddr	32	static
+../Core/Src/sdi12.c:222:19:SDI12_StartMeasurement	40	static
+../Core/Src/sdi12.c:256:19:SDI12_SendData	112	static
+../Core/Src/sdi12.c:312:19:SDI12_StartVerification	40	static
+../Core/Src/sdi12.c:344:10:SDI12_CheckCRC	24	static
+../Core/Src/sdi12.c:373:19:SDI12_StartMeasurementCRC	48	static
